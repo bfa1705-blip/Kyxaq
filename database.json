@@ -1,0 +1,30 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Kyxa",
+      "password": "mlk89100."
+    },
+    {
+      "id": 2,
+      "username": "Kyxas",
+      "password": "mlk89100."
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "name": "nStufios",
+      "user_id": 1
+    }
+  ],
+  "images": [
+    {
+      "id": "zFwENnpiAyJ4qIsXQWIio",
+      "url": "https://r2.fivemanage.com/LdciquqPHQHWZep7jAOU8/HSC9OQ953xAN.jpg",
+      "project_id": 1,
+      "filename": "d9124e0ba3e7179a1833da49dec5546e.jpg",
+      "created_at": "2026-05-27T14:53:43.882Z"
+    }
+  ]
+}
